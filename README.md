@@ -53,15 +53,4 @@
 
 ---
 
-<details>
-  <summary>⚙️ How to get this live</summary>
 
-1. **Repo name**  
-   Create a **public** repo exactly called `Vermahash`.  
-2. **Copy**  
-   Paste this `README.md` at the root.  
-3. **Commit & push**  
-   ```bash
-   git add README.md
-   git commit -m "✨ Profile README"
-   git push
