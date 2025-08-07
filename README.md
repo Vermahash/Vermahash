@@ -27,7 +27,7 @@
 - 🌱 Currently leveling up on **FastAPI**, **Docker**, **Kubernetes**  
 - 👯 Open to collaborating on open-source ML & analytics projects  
 - 💬 Ask me about **Python**, **SQL**, **Power BI**, **Tableau**  
-- 🚀 Fun fact: I learn deeply, then sleep—true “brain upload” style
+- 🚀 Fun fact: I learn deeply, then sleep, true “brain upload” style
 
 ---
 
