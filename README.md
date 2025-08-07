@@ -7,9 +7,7 @@
 ![Lives](https://img.shields.io/badge/Lives-Uniondale%2C%20NY-orange?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Hindi-lightgrey?style=flat-square)
 <!-- Profile Views -->
-<div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=Vermahash&color=brightgreen)
-</div>
+
 ---
 
 # Hi 👋, I’m Harsh Verma  
