@@ -2,7 +2,7 @@
 <!--  Profile badges                                                                                -->
 <!--––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––-->
 ![Profile views](https://komarev.com/ghpvc/?username=Vermahash&color=brightgreen)
-![Age](https://img.shields.io/badge/Age-26-blue?style=flat-square&logo=birthdaycake)
+![Age](https://img.shields.io/badge/Age-28-blue?style=flat-square&logo=birthdaycake)
 ![Focus](https://img.shields.io/badge/Focus-Data%20Analytics%20%7C%20ML-green?style=flat-square)
 ![Lives](https://img.shields.io/badge/Lives-Uniondale%2C%20NY-orange?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Hindi-lightgrey?style=flat-square)
